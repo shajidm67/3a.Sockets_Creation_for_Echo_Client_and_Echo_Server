@@ -1,5 +1,5 @@
 # 3a.CREATION FOR ECHO CLIENT AND ECHO SERVER USING TCP SOCKETS
-# Mohamed Shajid A
+#NAME: Mohamed Shajid A
 ## REF NO: 25013425
 # AIM
 To write a python program for creating Echo Client and Echo Server using TCP
